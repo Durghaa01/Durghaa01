@@ -18,7 +18,6 @@ My interests are mainly in **software development, full-stack web development, a
 
 - 🎓 Computer Science undergraduate at UCSI University
 - 💻 Interested in Software Engineering, Full-Stack Development & AI
-- 🧠 Currently working on an AI-focused Final Year Project
 - 🛠️ Experience developing academic and real-world software systems
 - 📄 Co-author of a published research article
 - 🔎 Open to internship and software development opportunities
