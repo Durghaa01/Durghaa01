@@ -74,7 +74,7 @@ Published in the *International Journal of Advances in Applied Sciences* (2026).
 📧 **Email:** durghaa01@gmail.com  
 💼 **LinkedIn:** Coming soon  
 🔎 **JobStreet:** Coming soon  
-🌐 **Portfolio:** Coming soon
+🌐 **Portfolio:** [Coming soon](https://durghaa01.github.io)
 
 <p align="center">
   <i>Learning, building, and improving one project at a time.</i>
