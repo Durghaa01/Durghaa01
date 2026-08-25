@@ -72,7 +72,7 @@ Published in the *International Journal of Advances in Applied Sciences* (2026).
 ## 📫 Connect With Me
 
 📧 **Email:** durghaa01@gmail.com  
-💼 **LinkedIn:** Coming soon  
+💼 **LinkedIn:** https://www.linkedin.com/in/durghaashini-s-ragunathan
 🔎 **JobStreet:** Coming soon  
 🌐 **Portfolio:** https://durghaa01.github.io
 
